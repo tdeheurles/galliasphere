@@ -28,7 +28,7 @@
       { "text": "Conseil juridique"},
       { "text": "Aide à la déclaration de revenus"}
     ],
-    "logo": "/assets/images/adsimmo.jpg"
+    "logo": "/images/adsimmo.jpg"
   },
   {
     "denomination": "ALLIANCE",
@@ -50,7 +50,7 @@
       { "text": "Retranscriptions de procès-verbaux des comités d’entreprises"},
       { "text": "Aide administrative pour les TPE et PME"}
     ],
-    "logo": "/assets/images/alliance.jpg"
+    "logo": "/images/alliance.jpg"
   },
   {
     "denomination": "Assurances Mathieu REMY",
@@ -73,7 +73,7 @@
       { "text": "Spécialisé en Assurance des Entreprises, Commerçants, Artisans et Professions Libérales"},
       { "text": "Audit complet des contrats d’assurance en cours"}
     ],
-    "logo": "/assets/images/assurancesremymathieu.png"
+    "logo": "/images/assurancesremymathieu.png"
   },
   {
     "denomination": "CAISSE DE CREDIT MUTUEL LA VALLEE",
@@ -111,7 +111,7 @@
       { "text": "Nous sommes à votre service."}
     ],
     "siteInternet": "http://www.creditmutuel.fr",
-    "logo": "/assets/images/creditmutuel.jpg"
+    "logo": "/images/creditmutuel.jpg"
   },
   {
     "denomination": "Carole VOGT - Avocat",
@@ -210,7 +210,7 @@
       { "text": "Courtage en assurance-vie, Conseil en gestion de patrimoine et défiscalisation, conseil en investissement financiers."},
       {"text": "Activité : Spécialisé en Assurance des Commerçants, Artisans et Professions Libérales, Audit de retraite, prévoyance, d'aide à la décision et de stratégie patrimoniale et de contrats d’assurance."}
     ],
-    "logo": "/assets/images/crc.jpg"
+    "logo": "/images/crc.jpg"
   },
   {
     "denomination": "FPC DIFFUSION",
@@ -241,7 +241,7 @@
     "activites": [
       { "text": "Distributeur de matériaux de construction et spécialiste en ITE (Isolation Thermique extérieure)"}
     ],
-    "logo": "/assets/images/fpcdiffusion.jpg"
+    "logo": "/images/fpcdiffusion.jpg"
   },
   {
     "denomination": "HECKEL CONSEIL",

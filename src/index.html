@@ -12,29 +12,29 @@
 
   <title>Gallia Sphère</title>
 
-  <link rel="shortcut icon" type="image/png" href="@routes.Assets.at("images/favicon.png")">
+  <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
 
   <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
   <script src="https://fb.me/react-0.13.1.js"></script>
   <script src="https://fb.me/JSXTransformer-0.13.1.js"></script>
-  <script src="@routes.Assets.at("javascripts/hello.js")" type="text/jsx; harmony=true"></script>
+  <script src="/javascripts/hello.js" type="text/jsx; harmony=true"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-  <link rel="stylesheet" href="@routes.Assets.at("stylesheets/docs.min.css")">
-  <link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/main.css")">
+  <link rel="stylesheet" href="/stylesheets/docs.min.css">
+  <link rel="stylesheet" media="screen" href="/stylesheets/main.css">
 </head>
 <body>
   <div id="startpoint">Loading ...</div>
   <script type="text/jsx">
       var logos =
       {
-          "galliasphere": "@routes.Assets.at("images/logoGalliaSphere.jpg")"
+          "galliasphere": "/images/logoGalliaSphere.jpg"
       };
 
       React.render(
-          <App    urlSocietes="@routes.Assets.at("javascripts/societes.json")"
-                  urlBlogs="@routes.Assets.at("javascripts/blog.json")"
+          <App    urlSocietes="/javascripts/societes.json"
+                  urlBlogs="/javascripts/blog.json"
                   urlLogos={logos}>
           </App>,
           document.getElementById('startpoint'));
