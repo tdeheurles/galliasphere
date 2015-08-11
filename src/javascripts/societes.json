@@ -137,7 +137,7 @@
       { "text": "Mes associés, Maître Hélène DOTT et Maître Vincent REUTHER interviennent également au service des entreprises en droit commercial et en droit du travail "},
       { "text": "Notre cabinet prend aussi en charge des litiges en droit immobilier et de la construction."}
     ],
-    "logo": "assets/images/carolevogt.jpg"
+    "logo": "images/carolevogt.jpg"
   },
   {
     "denomination": "Chouette Peinture",
@@ -165,7 +165,7 @@
     "divers": [
       {"text": "Spécialisé en dégât des eaux"}
     ],
-    "logo": "assets/images/chouettepeinture.jpeg"
+    "logo": "images/chouettepeinture.jpeg"
   },
   {
     "denomination": "Ste COMPEPOR EST",
@@ -187,7 +187,7 @@
     "activites": [
       { "text": "Métallerie-Serrurerie"}
     ],
-    "logo": "assets/images/comeporest.jpg"
+    "logo": "images/comeporest.jpg"
   },
   {
     "denomination": "CRC Courtage : assurances - audits",
@@ -265,7 +265,7 @@
       { "text": "Psychologue Conseil en développement professionnel :"},
       { "text": "bilans de compétences, bilans d'orientation, soutien des créateurs repreneurs d'entreprise, évaluation de profils, outplacement, formations à l'entretien professionnel, aide et accompagnement, consultations de prévention du risque psychosocial"}
     ],
-    "logo": "assets/images/heckelconseil.gif"
+    "logo": "images/heckelconseil.gif"
   },
   {
     "denomination": "IN EXTENSO STRASBOURG NORD",
@@ -293,7 +293,7 @@
     "activites": [
       { "text": "Expertise comptable : tenue et saisie comptable, établissement des comptes annuels, juridique, social, budgets de développements , tableaux de bord , formations etc"}
     ],
-    "logo": "assets/images/inextenso.jpg"
+    "logo": "images/inextenso.jpg"
   },
   {
     "denomination": "MANRIQUE OPPERMANN",
@@ -367,7 +367,7 @@
         "email": "claude.helmer@mix-concept.fr"
       }
     ],
-    "logo": "assets/images/mixconcept.jpg",
+    "logo": "images/mixconcept.jpg",
     "activites": [
       { "text": "Epices, Marinades ,Mix a facon ,Ingredients pour l’agro-alimentaire"}
     ]
