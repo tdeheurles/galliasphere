@@ -1,0 +1,424 @@
+[
+  {
+    "denomination": "ADS IMMO",
+    "formeJuridique": "SARL",
+    "adresses": [{ "siege": "13 rue Jacques Kablé 67170 BRUMATH" }],
+    "siret":"797 552 189",
+    "capitalSocial": "1000 €",
+    "contacts": [
+      {
+        "prenom": "Catherine",
+        "nom": "SCHMITT",
+        "telephone": [ { "portable": "06 83 31 64 09" } ],
+        "email": "cschmitt@ads-immo.com",
+        "role": "co-gérant"
+      },
+      {
+        "prenom": "Camille",
+        "nom": "DAIRE",
+        "portable": "numéro invalide",
+        "email": "cdaire@ads-immo.com ",
+        "role": "co-gérant"
+      }
+    ],
+    "siteInternet": "http://www.ads-immo.com/",
+    "activites": [
+      { "text": "Transaction Immobilière"},
+      { "text": "Gestion locative"},
+      { "text": "Conseil juridique"},
+      { "text": "Aide à la déclaration de revenus"}
+    ],
+    "logo": "/images/adsimmo.jpg"
+  },
+  {
+    "denomination": "ALLIANCE",
+    "formeJuridique": "EURL",
+    "adresses": [{ "siege": "2 RUE DES CYGNES 67410 ROHRWILLER" }],
+    "siret":"807 631 148 00010",
+    "capitalSocial": "25 000 €",
+    "contacts": [
+      {
+        "prenom": "Helena",
+        "nom": "AUBRY",
+        "telephone": [ { "portable": "06 76 80 84 84" } ],
+        "email": " a.helena@orange.fr",
+        "role": "gérant"
+      }
+    ],
+    "activites": [
+      { "text": "Formation des Comités d’Entreprises"},
+      { "text": "Retranscriptions de procès-verbaux des comités d’entreprises"},
+      { "text": "Aide administrative pour les TPE et PME"}
+    ],
+    "logo": "/images/alliance.jpg"
+  },
+  {
+    "denomination": "Assurances Mathieu REMY",
+    "nomCommercial": "Assurances REMY",
+    "formeJuridique": "Profession Libérale",
+    "adresses": [
+      { "siege": "28 avenue de la forêt noire 67000 STRASBOURG"}
+    ],
+    "contacts": [
+      {
+        "prenom": "Mathieu",
+        "nom": "REMY",
+        "telephone": [
+          { "portable": "06 11 38 28 68" }
+        ],
+        "email": "mathieu.remy@assurances-remy.fr"
+      }
+    ],
+    "activites": [
+      { "text": "Spécialisé en Assurance des Entreprises, Commerçants, Artisans et Professions Libérales"},
+      { "text": "Audit complet des contrats d’assurance en cours"}
+    ],
+    "logo": "/images/assurancesremymathieu.png"
+  },
+  {
+    "denomination": "CAISSE DE CREDIT MUTUEL LA VALLEE",
+    "formeJuridique": "ACIR-RL",
+    "adresses": [{ "siege": "34 rue du Général Leclerc  67670 MOMMENHEIM" }],
+    "siret":"77878465200019  RAC VI Folio 2",
+    "contacts": [
+      {
+        "prenom": "Hubert",
+        "nom": "KLEIN",
+        "role": "président du conseil d'administration"
+      },
+      {
+        "prenom": "Philippe",
+        "nom": "KLIPFEL",
+        "role": "Directeur"
+      },
+      {
+        "prenom": "Valérie",
+        "nom": "CORDIER",
+        "role": "Chargée de clientèle professionnelle",
+        "email": "valerie.cordier@creditmutuel.fr"
+      }
+    ],
+    "telephone": [ { "portable": "06 76 80 84 84" } ],
+    "activites": [
+      { "text": "Soutenir vos projets bancaires privés et professionnels"},
+      { "text": "Vous accompagner dans la vie quotidienne avec une gamme de services et d’assurances adaptée à chaque situation."},
+      { "text": "Etre le partenaire financier des entrepreneurs tout au long de la vie de l’entreprise"},
+      { "text": "Vous proposer une optimisation de la gestion de vos activités"}
+    ],
+    "divers": [
+      { "text": "Nous sommes une équipe de 15 personnes dynamique et disponible."},
+      { "text": "N’hésitez pas à nous contacter pour vos projets !"},
+      { "text": "Nous sommes à votre service."}
+    ],
+    "siteInternet": "http://www.creditmutuel.fr",
+    "logo": "/images/creditmutuel.jpg"
+  },
+  {
+    "denomination": "Carole VOGT - Avocat",
+    "formeJuridique": "Profession libérale en association avec Maître DOTT et Maître REUTHER",
+    "adresses": [
+      { "siege": "65 Avenue des Vosges 67000 STRASBOURG"}
+    ],
+    "siret": "481 962 330",
+    "contacts": [
+      {
+        "prenom": "Carole",
+        "nom": "VOGT",
+        "telephone": [
+          { "fix": "03 10 36 02 30" },
+          { "portable": "06 79 67 81 03" }
+        ],
+        "email": "vogt@vdr-avocats.fr"
+      }
+    ],
+    "activites": [
+      { "text": "Avocat inscrit au barreau de Strasbourg."},
+      { "text": "Activité en droit des affaires : droit commercial et des sociétés, rédaction de contrats, recouvrement de créances, négociation et rédaction de cession d’entreprise ou de fonds de commerce, rédaction et négociation de baux commerciaux, défense dans le cadre d’action en responsabilité professionnelle"},
+      { "text": "Mes associés, Maître Hélène DOTT et Maître Vincent REUTHER interviennent également au service des entreprises en droit commercial et en droit du travail "},
+      { "text": "Notre cabinet prend aussi en charge des litiges en droit immobilier et de la construction."}
+    ],
+    "logo": "images/carolevogt.jpg"
+  },
+  {
+    "denomination": "Chouette Peinture",
+    "formeJuridique": "SARL",
+    "adresses": [
+      { "siege": "63 route de Bischwiller 67800 BISCHHEIM"}
+    ],
+    "siret": "52525803400012",
+    "contacts": [
+      {
+        "prenom": "Daniel",
+        "nom": "Spitz",
+        "telephone": [
+          { "fix": "03 88 04 71 83" },
+          { "portable": "06 08 54 08 28" }
+        ],
+        "email": "chouettepeinture@orange.fr"
+      }
+    ],
+    "activites": [
+      { "text": "Peinture intérieure - extèrieure"},
+      { "text": "Revêtements muraux - tapisserie - sols (moquette, sol souple, PVC, parquet)"},
+      { "text": "réparation et pose de placo"}
+    ],
+    "divers": [
+      {"text": "Spécialisé en dégât des eaux"}
+    ],
+    "logo": "images/chouettepeinture.jpeg"
+  },
+  {
+    "denomination": "Ste COMPEPOR EST",
+    "formeJuridique": "SARL",
+    "adresses": [{ "siege": "10 Rue de Saint Nazaire 67100 STRASBOURG" }],
+    "siret":"794 107 953 00018",
+    "capitalSocial": "30 000€",
+    "contacts": [
+      {
+        "prenom": "Yves",
+        "nom": "DI POL MORO",
+        "telephone": [
+          { "portable": "06 07 16 63 79" },
+          { "fix": "03 88 66 66 80" }
+        ],
+        "email": "yves.dipolmoro@comeporest.fr"
+      }
+    ],
+    "activites": [
+      { "text": "Métallerie-Serrurerie"}
+    ],
+    "logo": "images/comeporest.jpg"
+  },
+  {
+    "denomination": "CRC Courtage : assurances - audits",
+    "nomCommercial": "CRC COURTAGE",
+    "formeJuridique": "EURL",
+    "adresses": [{ "siege": "8 rue des Lilas 67450 MUNDOLSHEIM" }],
+    "siret":"494 568 611",
+    "capitalSocial": "1 500€",
+    "contacts": [
+      {
+        "prenom": "Rémy",
+        "nom": "CORCELLUT",
+        "telephone": [
+          { "portable": "06 84 61 62 46" }
+        ],
+        "email": "remy.corcellut@free.fr"
+      }
+    ],
+    "activites": [
+      { "text": "Courtage en assurance-vie, Conseil en gestion de patrimoine et défiscalisation, conseil en investissement financiers."},
+      {"text": "Activité : Spécialisé en Assurance des Commerçants, Artisans et Professions Libérales, Audit de retraite, prévoyance, d'aide à la décision et de stratégie patrimoniale et de contrats d’assurance."}
+    ],
+    "logo": "/images/crc.jpg"
+  },
+  {
+    "denomination": "FPC DIFFUSION",
+    "formeJuridique": "SARL",
+    "adresses": [{ "siege": "16 Route de Brumath 67670 MOMMENHEIM"}],
+    "siret":"751 554 601 00011",
+    "capitalSocial": "170 000€",
+    "contacts": [
+      {
+        "prenom": "Willy",
+        "nom": "MULLER",
+        "telephone": [
+          { "portable": "06 37 02 83 54" }
+        ],
+        "email": "willy.muller@fpcdiffusion.fr"
+      },
+      {
+        "prenom": "Hervé",
+        "nom": "WENDLING",
+        "telephone": [
+          { "portable": "06 06 732 733" }
+        ],
+        "email": "herve.wendling@fpcdiffusion.fr"
+      }
+    ],
+    "telephone": [ { "fix": "03 88 15 19 10" } ],
+    "siteInternet": "http://www.fpcdiffusion.fr",
+    "activites": [
+      { "text": "Distributeur de matériaux de construction et spécialiste en ITE (Isolation Thermique extérieure)"}
+    ],
+    "logo": "/images/fpcdiffusion.jpg"
+  },
+  {
+    "denomination": "HECKEL CONSEIL",
+    "formeJuridique": "EURL",
+    "adresses": [{ "siege": "12B GRANDE RUE 67500 HAGUENAU" }],
+    "siret":"44335555700028",
+    "capitalSocial": "8 000€",
+    "contacts": [
+      {
+        "prenom": "Bernadette",
+        "nom": "HECKEL",
+        "telephone": [
+          { "fix": "03 88 93 07 49" },
+          { "portable": "06 13 63 37 09" }
+        ],
+        "email": "bernadette.heckel@orange.fr"
+      }
+    ],
+    "siteInternet": "http://www.heckelconseil.com",
+    "activites": [
+      { "text": "Psychologue Conseil en développement professionnel :"},
+      { "text": "bilans de compétences, bilans d'orientation, soutien des créateurs repreneurs d'entreprise, évaluation de profils, outplacement, formations à l'entretien professionnel, aide et accompagnement, consultations de prévention du risque psychosocial"}
+    ],
+    "logo": "images/heckelconseil.gif"
+  },
+  {
+    "denomination": "IN EXTENSO STRASBOURG NORD",
+    "formeJuridique": "SA",
+    "adresses": [
+      { "siege": "4 RUE COPENHAGUE 67300 SCHILTIGHEIM"},
+      { "secondaire": "15 RUE DU GAL DE GAULLE 67170 BRUMATH"},
+      { "secondaire": "38 BOULEVARD DE L’EUROPE 67500 HAGUENAU"},
+      { "secondaire": "12 RUE DES GENETS 67110 GUNDERSHOFFEN"}
+    ],
+    "siret":"333 232 601",
+    "capitalSocial": "1 100 000€",
+    "contacts": [
+      {
+        "prenom": "Thierry",
+        "nom": "DERRINGER",
+        "telephone": [
+          { "fix": "03 88 11 25 80" },
+          { "portable": "06 42 63 07 84" }
+        ],
+        "email": "thierry.derringer@inextenso.fr"
+      }
+    ],
+    "siteInternet": "http://www.inextenso.fr",
+    "activites": [
+      { "text": "Expertise comptable : tenue et saisie comptable, établissement des comptes annuels, juridique, social, budgets de développements , tableaux de bord , formations etc"}
+    ],
+    "logo": "images/inextenso.jpg"
+  },
+  {
+    "denomination": "MANRIQUE OPPERMANN",
+    "formeJuridique": "SARL",
+    "adresses": [
+      { "siege": "15 rue de l'Industrie 67720 HOERDT"}
+    ],
+    "siret":"412 909 814 00037",
+    "capitalSocial": "100 000€",
+    "contacts": [
+      {
+        "prenom": "Bernard",
+        "nom": "DISS",
+        "telephone": [
+          { "fix": "03 88 64 64 64" },
+          { "portable": "06 86 25 55 10" }
+        ],
+        "email": "bernard.diss@oppermann.fr",
+        "role": "Gérant"
+      }
+    ],
+    "siteInternet": "http://www.oppermann.fr",
+    "activites": [
+      { "text": "Nous sommes experts de l'Objet publicitaire et du Cadeau d'entreprise depuis plus de 85 ans."},
+      { "text": "Notre savoir-faire consiste à apporter à nos clients l'ensemble des solutions existantes en communication par l'objet. Notre équipe s'engage à vous fournir des propositions personnalisées à chaque contexte ou évènement."},
+      { "text": "Exposez nous votre besoin, nous nous faisons un devoir de vous apporter toute satisfaction."}
+    ]
+  },
+  {
+    "denomination": "Pour le plaisir des enfants",
+    "nomCommercial": "Max Aventure Brumath",
+    "formeJuridique": "SARL",
+    "adresses": [
+      { "siege": "99 rue principale 67270 ALTECKENDORF"}
+    ],
+    "siret": "810 798 199",
+    "capitalSocial": "15 000€",
+    "contacts": [
+      {
+        "prenom": "Mourad",
+        "nom": "OUATIQ",
+        "telephone": [
+          { "portable": "06 64 31 26 85" }
+        ],
+        "email": "ouatiq.mourad@gmail.com"
+      }
+    ],
+    "activites": [
+      { "text": "Le parc de jeux couverts Max Aventure Brumath, sera un espace équipé et dédié aux enfants selon l’âge de chacun de 0 à 12 ans (Baby Zone, Mini Parc et Maxi labyrinthe) afin de pouvoir s’amuser, sauter, glisser, danser …"},
+      { "text": "Lieu de divertissement et d’animations régulières, ludiques et participatives où l’on partage en famille un moment de joie et de plaisir inoubliable dans un cadre où règne : -Respect de l'enfant Originalité de l’animation - Qualité et Sécurité des infrastructures - Diversité de l'offre ludo-éducative "},
+      { "text": "Max Aventure Brumath proposera un espace parents (wifi …), un espace restauration, un service garderie, des formules anniversaires, appuis pédagogiques pour les temps périscolaires, une solution Ludo-créative pour les professionnels de l’enfance … ( Bref, « un petit bout de Paradis » )"}
+    ],
+    "siteInternet": "http://maxaventure.fr"
+  },
+  {
+    "denomination": "MIX CONCEPT",
+    "formeJuridique": "SAS",
+    "adresses": [
+      { "siege": "9a rue de BRUMATH 67500 WEITBRUCH"}
+    ],
+    "siret": "791.875.271.00029",
+    "capitalSocial": "5000€",
+    "contacts": [
+      {
+        "prenom": "Claude",
+        "nom": "HELMER",
+        "telephone": [
+          { "portable": "07 78 21 12 16" },
+          { "fix": "03 88 72 30 11" }
+        ],
+        "email": "claude.helmer@mix-concept.fr"
+      }
+    ],
+    "logo": "images/mixconcept.jpg",
+    "activites": [
+      { "text": "Epices, Marinades ,Mix a facon ,Ingredients pour l’agro-alimentaire"}
+    ]
+  },
+  {
+    "denomination": "SHIFT",
+    "formeJuridique": "EURL",
+    "adresses": [
+      { "siege": "12 rue du général de Gaulle 67270 Schwindratzheim"}
+    ],
+    "siret": "809 887 57300016",
+    "capitalSocial": "2000€",
+    "contacts": [
+      {
+        "prenom": "Thibault",
+        "nom": "DEHEURLES",
+        "telephone": [
+          { "portable": "06 60 25 55 05" }
+        ],
+        "email": "tdeheurles@gmail.com"
+      }
+    ],
+    "activites": [
+      { "text": "Développement informatique"},
+      { "text": "Conseil"},
+      { "text": "Prestation de service"}
+    ],
+    "linkedin": "https://fr.linkedin.com/pub/thibault-deheurles/61/b34/233",
+    "freelancebookin":"https://freelancebooking.pro/en/users/tdeheurles"
+  },
+  {
+    "denomination": "S’Wircher Brothiesel",
+    "formeJuridique": "SARL",
+    "adresses": [
+      { "siege": "20, rue de la République 67720 Weyersheim"}
+    ],
+    "siret": "521 227 983 00017",
+    "capitalSocial": "5000€",
+    "contacts": [
+      {
+        "prenom": "Nathalie/Laurent",
+        "nom": "Pfaadt",
+        "telephone": [
+          { "portable": "06 60 65 58 43" },
+          { "fix": "03 88 64 86 15"}
+        ],
+        "email": "swircherbrothiesel@orange.fr"
+      }
+    ],
+    "activites": [
+      { "text": "Boulangerie - Pâtisserie - Traiteur"}
+    ]
+  }
+]

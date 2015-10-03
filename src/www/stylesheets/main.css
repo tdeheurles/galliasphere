@@ -1,0 +1,82 @@
+/*@-moz-document url-prefix() {*/
+    /*fieldset { display: table-cell; }*/
+/*}*/
+
+/*.adresse {*/
+
+/*}*/
+
+/*.adresseSecondaire {*/
+/*}*/
+
+/*.contact {*/
+
+/*}*/
+
+/*.titre {*/
+    /*color: cadetblue;*/
+/*}*/
+
+img{
+    width: auto;
+    max-width: 260px;
+    height: auto;
+    max-height: 92px;
+}
+
+.btn-primary.blogPost {
+    color: #FFF;
+    background-color: #2f2c2a;
+    border-color: #3a3a39;
+}
+
+.btn-primary {
+    color: #FFF;
+    background-color: #1b8f17;
+    border-color: #2da412;
+}
+
+.nav > li > a:focus, .nav > li > a:hover {
+    color: black;
+}
+
+.well {
+    background: white;
+}
+/*.societeClosed {*/
+    /*text-align: center;*/
+    /*width: 300px;*/
+/*}*/
+
+/*.societeOpened {*/
+
+/*}*/
+
+/*.lienAssociation {*/
+    /*display: inline-block;*/
+    /*width: 200px;*/
+    /*margin: 0.5em;*/
+    /*vertical-align: top;*/
+/*}*/
+
+/*.logoGalliaSphere {*/
+    /*display: inline-block;*/
+/*}*/
+
+/*.gototop {*/
+    /*position: fixed;*/
+    /*bottom: 0;*/
+    /*right: 0;*/
+    /*height: 30px;*/
+    /*background-color: white;*/
+    /*width: 100%;*/
+    /*border: 1px black;*/
+/*}*/
+
+/*.societe:hover {*/
+    /*box-shadow: 1px 1px 12px #555;*/
+/*}*/
+
+/*.menu {*/
+    /*display: inline-block;*/
+/*}*/

@@ -1,0 +1,65 @@
+[
+  {
+    "date": "Mercredi 13 mai 2015 - 21:00",
+    "titre": "Tableau de bord et Outils de gestion",
+    "auteur": "Thierry Derringer - président",
+    "texts": [
+      { "text": "Dans notre environnement concurrentiel actuel, l’étude des seuls comptes annuels n’est plus suffisante. En effet, le jeune créateur ou le chef d’entreprise aguerri doit pouvoir analyser et évaluer son activité en temps réel. Pour se faire, il est nécessaire de mettre en place un tableau de bord." },
+      { "pbold": "Un tableau de bord, pour quoi faire ?"},
+      { "text": "C’est un instrument de gestion dynamique en temps réel constitué de plusieurs indicateurs de performance. Il fournit le niveau d’activité et les résultats dégagés permettant ainsi de prendre des décisions et d’agir. "},
+      { "text": "Cet outil de pilotage permet donc de valider et d’ajuster une stratégie mise en place par l’entreprise."},
+      { "pbold": "Les fonctions d’un tableau de bord"},
+      { "text": "Un tableau de bord de pilotage permet de répondre à différents objectifs :" },
+      { "text": "- Evaluer et mesurer la performance de l’entreprise" },
+      { "text": "- Réaliser un diagnostic de la situation" },
+      { "text": "- Anticiper et avoir une vision cohérente de la stratégie et des objectifs" },
+      { "text": "- Communiquer, informer et motiver ses collaborateurs." },
+      { "text": "Tout ceci dans le but commun de progresser de façon continue." },
+      { "pbold": "Quels indicateurs"},
+      { "text": "Il est important de repérer au préalable les indicateurs les plus pertinents de l’évolution de l’activité. Les indicateurs à retenir dans votre tableau de bord sont ceux qui offrent une information essentielle et sur lesquels il est possible de mener une action correctrice efficace (nombre de demandes de devis, montant des carnets de commandes par exemple)."},
+      { "text": "Pour sa mise en place, les conseillers du Point C Alsace sont là pour vous aider à sélectionner aujourd’hui les bons indicateurs de gestion, qui vous permettront de progresser demain." },
+      { "pbold": "Pour tout savoir sur le tableau de bord, les outils de gestion et les dispositifs de financement au développement : RDV au prochain Petit-déj de la Création, vendredi 29 Mai 2015 à 8h30, In Extenso – Point C à Schiltigheim." }
+    ]
+  },
+  {
+    "date": "Lundi 04 mai 2015 - 11:00",
+    "titre": "Nouveau membre",
+    "auteur": "Thierry DERRINGER - Président",
+    "texts": [
+      {"pbold": "L'association est heureuse d'acceuillir la société Chouette Peinture"}
+    ]
+  },
+  {
+    "date": "Lundi 20 avril 2015 - 19:00",
+    "titre": "Bienvenue sur Gallia Sphère",
+    "auteur": "Thierry DERRINGER - Président",
+    "texts": [
+      { "pbold": "Les premières sociétés membres fondatrices, ont le plaisir de vous annoncer la naissance d’un club affaires dénommé «  Gallia Sphère »." },
+      { "text": "Le statut juridique est une association à but non lucratif." },
+      { "text": "Ce club d’affaires permettra d’apporter des ressources financières supplémentaires au budget de différentes associations sportives et culturelles." },
+      { "text": "Gallia Sphère s’est construit après un travail et des démarches importantes. Il permettra également aux jeunes et moins jeunes de bénéficier d’un réseau professionnel." },
+      { "text": "Les sociétés intéressées pour rejoindre ce club affaires peuvent se faire connaitre en écrivant au conseil d’administration aux adresses  mail suivantes : thierry.derringer@inextenso.fr; mathieu.remy@assurances-remy.fr; a.helena@orange.fr ou directement faire la demande via le site." },
+      { "pbold": "Pourquoi un Club d’affaires ?" },
+      { "text": "- Soutenir différentes associations sportives et culturelles" },
+      { "text": "- Favoriser l’évolution de nos jeunes" },
+      { "text": "- Développer un réseau amical et professionnel" },
+      { "text": "- Multiplier les opportunités d’affaires" },
+      { "text": "- S’enrichir intellectuellement et financièrement" },
+      { "text": "- S’amuser et vivre des aventures sportives" },
+      { "text": "- Travailler en local et sur notre territoire" },
+      { "pbold": "La raison d’être :" },
+      { "text": "- Construire un réseau" },
+      { "text": "- Développer un courant d’affaire" },
+      { "text": "- Faciliter l’insertion professionnelle des jeunes" },
+      { "text": "- Rompre l’isolement du dirigeant" },
+      { "text": "- Mutualiser nos expériences" },
+      { "pbold": "Nos ambitions"},
+      { "text": "- Créer les conditions du développement local"},
+      { "text": "- Favoriser le développement économique du territoire"},
+      { "text": "- Créer des liens"},
+      { "text": "- Apprendre de nos expériences et expérimenter"},
+      { "text": "- Soutenir les associations et ses jeunes"},
+      { "text": "- Faire du club d’affaires une référence locale"}
+    ]
+  }
+]
