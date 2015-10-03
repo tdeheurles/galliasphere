@@ -5,3 +5,5 @@ config/localbuild.cfg
 build/localbuildnumber.cfg
 
 container_id
+
+node_modules

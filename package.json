@@ -1,0 +1,18 @@
+{
+  "name": "galliasphere-website",
+  "version": "0.0.0",
+  "description": "Site Web de l'association galliasphere",
+  
+  "scripts": {
+    "default": "npm install && webpack",
+    "watch": "npm install && webpack --watch"
+  },
+  
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "node-libs-browser": "*",
+    "webpack": "*",
+    "react": "*"
+  }
+}
