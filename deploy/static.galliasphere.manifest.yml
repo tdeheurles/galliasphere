@@ -12,11 +12,3 @@ spec:
     - containerPort: 8000
       hostPort:      8200
       name:          galliasphere
-    volumeMounts:
-    - mountPath: /www
-      name: website
-      readOnly: true
-  volumes:
-  - hostPath:
-      path: /home/core/repository/galliasphere/src/www
-    name: website

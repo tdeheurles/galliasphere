@@ -1,6 +1,0 @@
-[Unit]
-Description=update galliasphere repository
-
-[Service]
-WorkingDirectory=/home/core/repository/galliasphere
-ExecStart=/usr/bin/git pull
