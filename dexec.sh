@@ -1,3 +1,3 @@
 #! /bin/bash
 
-docker exec -ti `cat container_pid` bash
+docker exec -ti `cat container_id` bash
