@@ -1,6 +1,6 @@
 machine:
-    services:
-      - docker
+  services:
+    - docker
   environment:
     imageName: tdeheurles/galliasphere
 
