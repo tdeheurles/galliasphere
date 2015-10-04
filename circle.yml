@@ -1,0 +1,23 @@
+machine:
+    services:
+      - docker
+  environment:
+    imageName: tdeheurles/galliasphere
+
+dependencies: 
+  override:
+    - npm run build_once
+    - docker info
+    - docker build $imageName .
+
+test:
+  override:
+    - docker run -d -p 8000:8000 $imageName
+    - curl --retry 10 --retry-delay 5 -v http://localhost:8000
+
+deployment:
+  hub:
+    branch: master
+    commands:
+      - docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
+      - docker push $imageName
