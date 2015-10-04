@@ -4,7 +4,7 @@
   "description": "Site Web de l'association galliasphere",
   
   "scripts": {
-    "default": "npm install && webpack",
+    "build_once": "npm install && webpack",
     "watch": "npm install && webpack --watch"
   },
   
