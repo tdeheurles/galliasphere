@@ -8,7 +8,7 @@ dependencies:
   override:
     - npm run build_once
     - docker info
-    - docker build $imageName .
+    - docker build -t $imageName .
 
 test:
   override:
