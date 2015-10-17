@@ -395,8 +395,7 @@
       { "text": "Conseil"},
       { "text": "Prestation de service"}
     ],
-    "linkedin": "https://fr.linkedin.com/pub/thibault-deheurles/61/b34/233",
-    "freelancebookin":"https://freelancebooking.pro/en/users/tdeheurles"
+    "linkedin": "https://fr.linkedin.com/pub/thibault-deheurles/61/b34/233"
   },
   {
     "denomination": "S’Wircher Brothiesel",
@@ -420,5 +419,84 @@
     "activites": [
       { "text": "Boulangerie - Pâtisserie - Traiteur"}
     ]
+  },
+  {
+    "denomination": "Zenon",
+    "formeJuridique": "SARL",
+    "adresses": [
+      { "siege": "2 allée d’Helsinki – Espace Européen de l’Entreprise  67300 Schiltigheim"}
+    ],
+    "siret": "41433604000038",
+    "capitalSocial": "8000€",
+    "contacts": [
+      {
+        "prenom": "Alain",
+        "nom": "Mantey",
+        "telephone": [
+          { "portable": "06 51 835 840" }
+        ],
+        "email": "alain.mantey@gmail.com"
+      }
+    ],
+    "siteInternet": "www.zenon.fr",
+    "activites": [
+      { "text": "Conseil en Ressources Humaines"},
+      { "text": "Gestion de carrière"},
+      { "text": "Conduite de changement"},
+      { "text": "Bilan de compétences"},
+      { "text": "Recrutement"},
+      { "text": "Outplacement"},
+      { "text": "Restructuration"}
+    ],
+    "logo": "images/zenon.png"
+  },
+  {
+    "denomination": "CODRIS",
+    "formeJuridique": "SARL",
+    "adresses": [
+      { "siege": "36, rue de l'industrie - 67170 BRUMATH"}
+    ],
+    "siret": "392 780 540 000 28",
+    "capitalSocial": "58 000€",
+    "contacts": [
+      {
+        "prenom": "Herv",
+        "nom": "ROHRBACHER",
+        "telephone": [
+          { "fix": "03 88 18 87 17" },
+          { "portable": "06 03 49 03 70" }
+        ],
+        "email": "herve.rohrbacher@codris.fr"
+      }
+    ],
+    "siteInternet": "www.codris.fr",
+    "activites": [
+      { "text": "Prestataire informatique, spécialisé en solution de gestion pour les secteurs du BTP, du Transport et du Négoce."}
+    ],
+    "logo": "images/codris.jpg"
+  },
+  {
+    "denomination": "Couverture Zinguerie Didier Reeb",
+    "formeJuridique": "SARL",
+    "adresses": [
+      { "siege": "10 rue de l'étoile 67240 Gries"}
+    ],
+    "siret": "532 011 046 00010",
+    "capitalSocial": "4 000€",
+    "contacts": [
+      {
+        "prenom": "Didier",
+        "nom": "Reeb",
+        "telephone": [
+          { "portable": "06 45 51 24 78" }
+        ],
+        "email": "reebcouverture@gmail.com"
+      }
+    ],
+    "siteInternet": "www.codris.fr",
+    "activites": [
+      { "text": "Prestataire informatique, spécialisé en solution de gestion pour les secteurs du BTP, du Transport et du Négoce."}
+    ],
+    "logo": "images/reeb.jpg"
   }
 ]
