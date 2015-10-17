@@ -7,3 +7,8 @@ build/localbuildnumber.cfg
 container_id
 
 node_modules
+
+.idea
+
+out
+

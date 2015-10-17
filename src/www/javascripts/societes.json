@@ -30,6 +30,7 @@
     ],
     "logo": "/images/adsimmo.jpg"
   },
+
   {
     "denomination": "ALLIANCE",
     "formeJuridique": "EURL",
@@ -52,6 +53,7 @@
     ],
     "logo": "/images/alliance.jpg"
   },
+
   {
     "denomination": "Assurances Mathieu REMY",
     "nomCommercial": "Assurances REMY",
@@ -75,6 +77,7 @@
     ],
     "logo": "/images/assurancesremymathieu.png"
   },
+
   {
     "denomination": "CAISSE DE CREDIT MUTUEL LA VALLEE",
     "formeJuridique": "ACIR-RL",
@@ -113,6 +116,7 @@
     "siteInternet": "http://www.creditmutuel.fr",
     "logo": "/images/creditmutuel.jpg"
   },
+
   {
     "denomination": "Carole VOGT - Avocat",
     "formeJuridique": "Profession libérale en association avec Maître DOTT et Maître REUTHER",
@@ -139,6 +143,7 @@
     ],
     "logo": "images/carolevogt.jpg"
   },
+
   {
     "denomination": "Chouette Peinture",
     "formeJuridique": "SARL",
@@ -167,6 +172,33 @@
     ],
     "logo": "images/chouettepeinture.jpeg"
   },
+
+  {
+    "denomination": "CODRIS",
+    "formeJuridique": "SARL",
+    "adresses": [
+      { "siege": "36, rue de l'industrie - 67170 BRUMATH"}
+    ],
+    "siret": "392 780 540 000 28",
+    "capitalSocial": "58 000€",
+    "contacts": [
+      {
+        "prenom": "Herv",
+        "nom": "ROHRBACHER",
+        "telephone": [
+          { "fix": "03 88 18 87 17" },
+          { "portable": "06 03 49 03 70" }
+        ],
+        "email": "herve.rohrbacher@codris.fr"
+      }
+    ],
+    "siteInternet": "www.codris.fr",
+    "activites": [
+      { "text": "Prestataire informatique, spécialisé en solution de gestion pour les secteurs du BTP, du Transport et du Négoce."}
+    ],
+    "logo": "images/codris.jpg"
+  },
+
   {
     "denomination": "Ste COMPEPOR EST",
     "formeJuridique": "SARL",
@@ -189,6 +221,32 @@
     ],
     "logo": "images/comeporest.jpg"
   },
+
+  {
+    "denomination": "Couverture Zinguerie Didier Reeb",
+    "formeJuridique": "SARL",
+    "adresses": [
+      { "siege": "10 rue de l'étoile 67240 Gries"}
+    ],
+    "siret": "532 011 046 00010",
+    "capitalSocial": "4 000€",
+    "contacts": [
+      {
+        "prenom": "Didier",
+        "nom": "Reeb",
+        "telephone": [
+          { "portable": "06 45 51 24 78" }
+        ],
+        "email": "reebcouverture@gmail.com"
+      }
+    ],
+    "siteInternet": "www.codris.fr",
+    "activites": [
+      { "text": "Prestataire informatique, spécialisé en solution de gestion pour les secteurs du BTP, du Transport et du Négoce."}
+    ],
+    "logo": "images/reeb.jpg"
+  },
+
   {
     "denomination": "CRC Courtage : assurances - audits",
     "nomCommercial": "CRC COURTAGE",
@@ -212,6 +270,7 @@
     ],
     "logo": "/images/crc.jpg"
   },
+
   {
     "denomination": "FPC DIFFUSION",
     "formeJuridique": "SARL",
@@ -243,6 +302,7 @@
     ],
     "logo": "/images/fpcdiffusion.jpg"
   },
+
   {
     "denomination": "HECKEL CONSEIL",
     "formeJuridique": "EURL",
@@ -267,6 +327,7 @@
     ],
     "logo": "images/heckelconseil.gif"
   },
+
   {
     "denomination": "IN EXTENSO STRASBOURG NORD",
     "formeJuridique": "SA",
@@ -295,6 +356,7 @@
     ],
     "logo": "images/inextenso.jpg"
   },
+
   {
     "denomination": "MANRIQUE OPPERMANN",
     "formeJuridique": "SARL",
@@ -322,6 +384,7 @@
       { "text": "Exposez nous votre besoin, nous nous faisons un devoir de vous apporter toute satisfaction."}
     ]
   },
+
   {
     "denomination": "Pour le plaisir des enfants",
     "nomCommercial": "Max Aventure Brumath",
@@ -348,6 +411,7 @@
     ],
     "siteInternet": "http://maxaventure.fr"
   },
+
   {
     "denomination": "MIX CONCEPT",
     "formeJuridique": "SAS",
@@ -372,6 +436,7 @@
       { "text": "Epices, Marinades ,Mix a facon ,Ingredients pour l’agro-alimentaire"}
     ]
   },
+
   {
     "denomination": "SHIFT",
     "formeJuridique": "EURL",
@@ -395,9 +460,9 @@
       { "text": "Conseil"},
       { "text": "Prestation de service"}
     ],
-    "linkedin": "https://fr.linkedin.com/pub/thibault-deheurles/61/b34/233",
-    "freelancebookin":"https://freelancebooking.pro/en/users/tdeheurles"
+    "linkedin": "https://fr.linkedin.com/pub/thibault-deheurles/61/b34/233"
   },
+
   {
     "denomination": "S’Wircher Brothiesel",
     "formeJuridique": "SARL",
@@ -420,5 +485,36 @@
     "activites": [
       { "text": "Boulangerie - Pâtisserie - Traiteur"}
     ]
+  },
+
+  {
+    "denomination": "Zenon",
+    "formeJuridique": "SARL",
+    "adresses": [
+      { "siege": "2 allée d’Helsinki – Espace Européen de l’Entreprise  67300 Schiltigheim"}
+    ],
+    "siret": "41433604000038",
+    "capitalSocial": "8000€",
+    "contacts": [
+      {
+        "prenom": "Alain",
+        "nom": "Mantey",
+        "telephone": [
+          { "portable": "06 51 835 840" }
+        ],
+        "email": "alain.mantey@gmail.com"
+      }
+    ],
+    "siteInternet": "www.zenon.fr",
+    "activites": [
+      { "text": "Conseil en Ressources Humaines"},
+      { "text": "Gestion de carrière"},
+      { "text": "Conduite de changement"},
+      { "text": "Bilan de compétences"},
+      { "text": "Recrutement"},
+      { "text": "Outplacement"},
+      { "text": "Restructuration"}
+    ],
+    "logo": "images/zenon.png"
   }
 ]
