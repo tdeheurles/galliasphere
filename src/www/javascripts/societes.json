@@ -192,7 +192,7 @@
         "email": "herve.rohrbacher@codris.fr"
       }
     ],
-    "siteInternet": "www.codris.fr",
+    "siteInternet": "http://www.codris.fr",
     "activites": [
       { "text": "Prestataire informatique, spécialisé en solution de gestion pour les secteurs du BTP, du Transport et du Négoce."}
     ],
@@ -239,10 +239,6 @@
         ],
         "email": "reebcouverture@gmail.com"
       }
-    ],
-    "siteInternet": "www.codris.fr",
-    "activites": [
-      { "text": "Prestataire informatique, spécialisé en solution de gestion pour les secteurs du BTP, du Transport et du Négoce."}
     ],
     "logo": "images/reeb.jpg"
   },
@@ -505,7 +501,7 @@
         "email": "alain.mantey@gmail.com"
       }
     ],
-    "siteInternet": "www.zenon.fr",
+    "siteInternet": "http://www.zenon.fr",
     "activites": [
       { "text": "Conseil en Ressources Humaines"},
       { "text": "Gestion de carrière"},
