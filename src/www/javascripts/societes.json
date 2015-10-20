@@ -1,5 +1,31 @@
 [
   {
+    "denomination": "ACTIV RH",
+    "formeJuridique": "SARL",
+    "adresses": [
+      { "siege": "32 Rue Victor Schoelcher, 68200 Mulhouse" },
+      { "secondaire": "13 avenue de l’Europe, 67300 Schiltigheim" }
+    ],
+    "siret":"480 238 401 00024",
+    "capitalSocial": "37 500 €",
+    "contacts": [{
+        "prenom": "Sylvie",
+        "nom": "WARTH",
+        "telephone": [
+          { "portable": "06 83 31 64 09" },
+          { "fix": "03 89 56 92 40" }
+        ],
+        "email": "s.warth@activrh.fr",
+        "role": "drigeante"
+    }],
+    "siteInternet": "http://www.activrh.fr/",
+    "activites": [
+      { "text": "Cabinet de recrutement spécialisé dans les métiers en pénurie de compétences"}
+    ],
+    "logo": "/images/activrh.jpg"
+  },
+
+  {
     "denomination": "ADS IMMO",
     "formeJuridique": "SARL",
     "adresses": [{ "siege": "13 rue Jacques Kablé 67170 BRUMATH" }],
