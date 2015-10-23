@@ -43,7 +43,7 @@ export default class App extends React.Component {
         return (
                 <div className="container">
                     <div className="row">
-                        <Title urlLogo={this.props.urlLogos.galliasphere} />
+                        <Title urlLogo={this.props.urlLogos.mainLogo} />
                     </div>
                     <div className="row">
 
