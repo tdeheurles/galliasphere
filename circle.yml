@@ -2,8 +2,8 @@ machine:
   services:
     - docker
   environment:
-    imageName: tdeheurles/galliasphere:$CIRCLE_BUILD_NUM
-    imageLatest: tdeheurles/galliasphere:lastest
+    imageName: tdeheurles/sphereclub:$CIRCLE_BUILD_NUM
+    imageLatest: tdeheurles/sphereclub:latest
 
 dependencies: 
   override:
