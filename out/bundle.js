@@ -56,7 +56,7 @@
 
 	var _elementsAppJs2 = _interopRequireDefault(_elementsAppJs);
 
-	var logos = { "mainLogo": "/images/logoSphereClubAffairesGrand.jpg" };
+	var logos = { "mainLogo": "/images/sphereClubAffaires.png" };
 
 	_react2['default'].render(_react2['default'].createElement(_elementsAppJs2['default'], { urlSocietes: '/javascripts/societes.json',
 	     urlBlogs: '/javascripts/blog.json',
