@@ -2,13 +2,15 @@ machine:
   services:
     - docker
   environment:
-    imageName: tdeheurles/galliasphere
+    imageName: tdeheurles/galliasphere:$CIRCLE_BUILD_NUM
+    imageLatest: tdeheurles/galliasphere:lastest
 
 dependencies: 
   override:
     - npm run build_once
     - docker info
     - docker build -t $imageName .
+    - docker tag $imageName $imageLatest
 
 test:
   override:
@@ -21,3 +23,4 @@ deployment:
     commands:
       - docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
       - docker push $imageName
+      - docker push $imageLatest
