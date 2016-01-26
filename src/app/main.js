@@ -1,7 +1,7 @@
 import React  from 'react';
 import App   from './elements/App.js'
 
-var logos = { "galliasphere": "/images/logoGalliaSphere.jpg" };
+var logos = { "mainLogo": "/images/sphereClubAffaires.png" };
 
 React.render(
   <App urlSocietes="/javascripts/societes.json"
@@ -9,4 +9,4 @@ React.render(
        urlLogos={logos}>
   </App>,
   document.getElementById('root')
-)
+);

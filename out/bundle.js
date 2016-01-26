@@ -56,7 +56,7 @@
 
 	var _elementsAppJs2 = _interopRequireDefault(_elementsAppJs);
 
-	var logos = { "galliasphere": "/images/logoGalliaSphere.jpg" };
+	var logos = { "mainLogo": "/images/sphereClubAffaires.png" };
 
 	_react2['default'].render(_react2['default'].createElement(_elementsAppJs2['default'], { urlSocietes: '/javascripts/societes.json',
 	     urlBlogs: '/javascripts/blog.json',
@@ -20528,7 +20528,7 @@
 	                _react2['default'].createElement(
 	                    'div',
 	                    { className: 'row' },
-	                    _react2['default'].createElement(_TitleJs2['default'], { urlLogo: this.props.urlLogos.galliasphere })
+	                    _react2['default'].createElement(_TitleJs2['default'], { urlLogo: this.props.urlLogos.mainLogo })
 	                ),
 	                _react2['default'].createElement(
 	                    'div',
@@ -20647,8 +20647,7 @@
 	      key: "render",
 	      value: function render() {
 	         return _react2["default"].createElement("img", { src: this.props.urlLogo,
-	            alt: "Logo GalliaSphere",
-	            className: "logoGalliaSphere"
+	            alt: "Logo SphereClubAffaires"
 	         });
 	      }
 	   }]);
