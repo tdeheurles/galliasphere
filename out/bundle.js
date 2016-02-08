@@ -20533,13 +20533,13 @@
 	                _react2['default'].createElement(
 	                    'div',
 	                    { className: 'row' },
+	                    _react2['default'].createElement(_BlogJs2['default'], { classArgs: 'col-xs-12 col-sm-7 col-md-7',
+	                        role: 'main',
+	                        blogs: this.state.blogs }),
 	                    _react2['default'].createElement(_MembresJs2['default'], { classArgs: 'col-xs-12 col-sm-4 col-md-4',
 	                        role: 'complementary',
 	                        societes: this.state.societes,
-	                        urlLogos: this.props.urlLogos }),
-	                    _react2['default'].createElement(_BlogJs2['default'], { classArgs: 'col-xs-12 col-sm-7 col-md-7',
-	                        role: 'main',
-	                        blogs: this.state.blogs })
+	                        urlLogos: this.props.urlLogos })
 	                ),
 	                _react2['default'].createElement(
 	                    'div',
