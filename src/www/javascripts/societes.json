@@ -435,6 +435,37 @@
   },
 
   {
+    "denomination": "MG COMM",
+    "adresses": [
+      { "siege": "6A rue de l'Industrie 67720 HOERDT"}
+    ],
+    "siret": "53313725300019",
+    "capitalSocial": "5000€",
+    "contacts": [
+      {
+        "prenom": "Marie",
+        "nom": "GUIDI",
+        "telephone": [
+          { "portable": "06 61 42 29 60" },
+          { "fix": "09 53 52 72 12" }
+        ],
+        "email": "mg@mgcomm.fr"
+      }
+    ],
+    "logo": "images/mgcomm.jpg",
+    "activites": [
+      { "text": "Agence conseil et création en communication"},
+      { "text": "Nous accompagnons les entreprises et les groupements d'entreprises dans le lancement de leurs marques, produits et services sur le marché."},
+      { "text": "Pour cela nous avons 4 pôles d'excellence :"},
+      { "text": " - Le marketing : pour aider nos clients à définir leur stratégie."},
+      { "text": " - L'identité visuelle et sonore : pour représenter avec force et conviction les valeurs de l'entreprise ou du groupement d'entreprises."},
+      { "text": " - La communication hors ligne : pour déployer l'identité et le discours commercial sous forme de plaquette, carte de visite, enseigne, marquage véhicule..."},
+      { "text": " - La communication en ligne : pour générer du contact par la création de site Internet vitrine et pour générer des ventes par la réalisation de boutiques en ligne."}
+    ],
+    "siteInternet": "http://www.mgcomm.fr"
+  },
+
+  {
     "denomination": "MIX CONCEPT",
     "formeJuridique": "SAS",
     "adresses": [
