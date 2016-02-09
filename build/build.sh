@@ -8,8 +8,10 @@ fi
 build=$1
 
 cd ..
-    ./hive script hive_run \
-    --config config.yml  \
-    build install.sh \
+
+./hive script hive_run  \
+    --config config.yml \
+    build install.sh    \
     build $build
+
 cd build
