@@ -1,0 +1,13 @@
+apiVersion: v0
+kind: HiveDeployment
+spec:
+  project:            sphereclub
+  deploymentStrategy: Recreate
+  configuration:      config.yml
+  templates:          templates
+
+  services:
+    - name: client
+
+  replicationController:
+    - name: client

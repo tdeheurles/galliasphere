@@ -1,0 +1,19 @@
+{
+  "name": "lasphereclub-website",
+  "version": "1.0.0",
+  "description": "Site Web de l'association lasphereclub",
+  "scripts": {
+    "build": "npm install && webpack",
+    "dev": "webpack-dev-server --content-base public/ --history-api-fallback --inline --progress --host=0.0.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.1",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

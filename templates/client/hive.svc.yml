@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: <% service.name.client %>
+  labels:
+    name: <% service.name.client %>
+    version: "<$ version.client %>
+spec:
+  selector:
+    name: <% service.name.client %>
+  ports:
+  - port: 80
+    targetPort: 8000

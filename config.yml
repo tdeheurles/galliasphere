@@ -1,0 +1,29 @@
+apiVersion: v0
+kind: HiveDeployment
+spec:
+    maintainer: thibault <thibault@weareadaptive.com>
+    service:
+        client: client
+  
+    image:
+        release:
+            client: tdeheurles/sphereclub
+        base:
+            nginx: nginx
+            node:  node
+
+    volume:
+        cache: sphereclub_cache
+
+    version:
+        release:
+            client: latest
+        base:
+            node: 5.5.0
+            nginx: 1.9.7
+
+    port:
+        container: "8000"
+
+    path:
+        client: "/client"

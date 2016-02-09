@@ -436,9 +436,7 @@
 
   {
     "denomination": "MG COMM",
-    "adresses": [
-      { "siege": "6A rue de l'Industrie 67720 HOERDT"}
-    ],
+    "adresses": [{ "siege": "6A rue de l'Industrie 67720 HOERDT"}],
     "siret": "53313725300019",
     "capitalSocial": "5000€",
     "contacts": [

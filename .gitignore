@@ -1,14 +1,6 @@
-build/container
-secret_ssl.yml
-secret_ssl.json
-config/localbuild.cfg
-build/localbuildnumber.cfg
-
-container_id
-
-node_modules
-
 .idea
 
-out
+client/public/bundle.js
+client/node_modules
 
+galliasphere.iml

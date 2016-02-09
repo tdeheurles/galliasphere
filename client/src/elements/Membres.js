@@ -15,11 +15,13 @@ export default class Membres extends React.Component {
             )
         });
 
-        return  <div className={this.props.classArgs}>
-                    <h2>Nos {this.props.societes.length} membres</h2>
-                    <ul className="nav">
-                        {elements}
-                    </ul>
-                </div>
+        return  (
+            <div className={this.props.classArgs}>
+                <h2>Nos {this.props.societes.length} membres</h2>
+                <ul className="nav">
+                    {elements}
+                </ul>
+            </div>
+        )
     }
 }

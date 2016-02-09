@@ -5,7 +5,7 @@ export default class Blog extends React.Component {
     render() {
         if (this.props.blogs == undefined
             || this.props.blogs.length == 0)
-            return <div />;
+            return <div ></div>;
 
         var number = 1;
         var results = [];

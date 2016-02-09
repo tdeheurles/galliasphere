@@ -10,7 +10,7 @@ export default class Contacts extends React.Component {
        this.props.contacts.map(function(contact) {
            if (contact.prenom != undefined) results.push(<div key={Math.random()} className="contacts"><b>Prenom : </b>{contact.prenom}</div>);
            if (contact.nom != undefined) results.push(<div key={Math.random()} className="contacts"><b>Nom : </b>{contact.nom}</div>);
-           if (contact.email != undefined) results.push(<div key={Math.random()} className="contacts"><b>email : </b>{contact.email}</div>);
+           if (contact.email != undefined) results.push(<div key={Math.random()} className="contacts"><b>Email : </b>{contact.email}</div>);
        });
 
        return <div>{results}</div>

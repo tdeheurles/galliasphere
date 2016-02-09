@@ -7,10 +7,7 @@ machine:
 
 dependencies: 
   override:
-    - npm run build_once
-    - docker info
-    - docker build -t $imageName .
-    - docker tag $imageName $imageLatest
+    - cd build && chmod 755 build.sh && ./build.sh $CIRCLE_BUILD_NUM 
 
 test:
   override:

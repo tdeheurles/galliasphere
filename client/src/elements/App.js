@@ -46,13 +46,13 @@ export default class App extends React.Component {
                         <Title urlLogo={this.props.urlLogos.mainLogo} />
                     </div>
                     <div className="row">
-                       <Blog classArgs="col-xs-12 col-sm-7 col-md-7"
-                             role="main"
-                             blogs={this.state.blogs}/>
-                       <Membres classArgs="col-xs-12 col-sm-4 col-md-4"
-                                role = "complementary"
-                                societes={this.state.societes}
-                                urlLogos={this.props.urlLogos}/>
+                        <Blog classArgs="col-xs-12 col-sm-7 col-md-7"
+                              role="main"
+                              blogs={this.state.blogs}/>
+                        <Membres classArgs="col-xs-12 col-sm-4 col-md-4"
+                                 role = "complementary"
+                                 societes={this.state.societes}
+                                 urlLogos={this.props.urlLogos}/>
                     </div>
                     <div className="row">
                         <Foot />
